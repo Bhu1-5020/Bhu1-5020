@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhuwan.thapa88@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 

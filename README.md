@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhuwan Thapa</h1>
 <h3 align="center">Java Developer | Full-Stack</h3>
 
-- 🌱 I’m currently learning **Microservices, Docker, and DSA**
+- 🌱 I’m currently learning **Microservices and  Docker**
 
 - 💡I’m Working On **Building full-stack projects to strengthen my portfolio**
 

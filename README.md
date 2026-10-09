@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a hobby programmer who enjoys building applications and solving problems with code.
+ I'm a hobby programmer who enjoys coding and learning new programming languages.I'm particularly interested in software development and web development.
 
 
 ## 🌐 Socials:
